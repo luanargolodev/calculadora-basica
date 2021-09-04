@@ -10,7 +10,7 @@ Calculadora React app
 
 Desenvolvido para praticar ReactJS
 
-Este projeto faz parte do meu portifólio pessoal, qualquer feedback sobre estrutura, código ou funcionalidades que podem melhorar o projeto serão bem vindos.
+Este projeto faz parte do meu portfólio pessoal, qualquer feedback sobre estrutura, código ou funcionalidades que podem melhorar o projeto serão bem vindos.
 
 Sinta-se livre para dar um fork, ou enviar um pull request, você pode usar este projeto para estudar ou fazer melhorias!
 
