@@ -27,7 +27,7 @@ Caso já tenha clonado o repositório basta pular a primeira etapa
 ```bash
 
 # Clona o repositório
-git clone https://github.com/luanargolodev/calculadora-react.git
+git clone https://github.com/luanargolodev/react-calculadora.git
 
 ```
 
